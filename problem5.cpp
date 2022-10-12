@@ -1,4 +1,7 @@
-#include <iostream>
+// Abduvaliyev Alisher id:220108 22cs-10
+// Write a C++ program to check whether a character is an alphabet, digit or special charac-
+// ter.
+    #include <iostream>
     using namespace std;
     int main(int argc, const char * argv[]) {
         char v;
