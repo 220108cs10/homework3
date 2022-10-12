@@ -1,3 +1,7 @@
+// Abduvaliyev Alisher id:220108  22cs-10
+// Write C++ program that will take the numerical value of the month from user input and return
+// the number of days in that month.
+    
 #include <iostream>
 using namespace std;
 int main(int argc, const char * argv []) {
