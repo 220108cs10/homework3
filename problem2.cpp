@@ -1,3 +1,7 @@
+// Abduvaliyev Alisher id:220108  22cs-10
+// Write C++ program that takes three float numbers from user input and finds the maximum
+// number.
+    
 #include <iostream>
 using namespace std;
 
